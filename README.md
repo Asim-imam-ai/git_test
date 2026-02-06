@@ -1,4 +1,5 @@
 # Class
-This is my first git repositry
+## class 2
+This is new classes of apna collage
 
 

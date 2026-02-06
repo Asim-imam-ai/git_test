@@ -1,3 +1,4 @@
-#class
-##class2
-this is git hub new classes
+# Class
+This is my first git repositry
+
+
